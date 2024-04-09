@@ -32,7 +32,7 @@ To get started with the Java Desktop Chat Application, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community to help improve the Java Desktop Chat Application. If you're interested in contributing, please follow these guidelines:
+We welcome contributions from the community to help develop the Java Desktop Chat Application. If you're interested in contributing, please follow these guidelines:
 
 1. Fork the repository and create your branch from `main`.
 2. Make your changes and ensure the code follows the project's coding style and guidelines.
